@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd0b87dfabd7e602a7628851130a5dabea1bb4901e9af8233e458772e04fff0e
-size 861
+Schadensbericht für Bild: auto-3734396_1280.jpg
+==================================================
+
+Bauteil: Hood (Koordinaten: [126, 125, 626, 245])
+  - Schadensart: Broken part (Konfidenz: 0.93)
+  - Schadensart: Broken part (Konfidenz: 0.69)
+---
+Bauteil: Mirror (Koordinaten: [621, 95, 699, 142])
+  - Schadensart: Broken part (Konfidenz: 0.83)
+---
+Bauteil: Front-bumper (Koordinaten: [60, 224, 689, 451])
+  - Schadensart: Broken part (Konfidenz: 0.74)
+  - Schadensart: Broken part (Konfidenz: 0.56)
+---
+Bauteil: Headlight (Koordinaten: [505, 231, 688, 301])
+  - Schadensart: Broken part (Konfidenz: 0.86)
+---
+
+
+Zusätzliche zugeschnittene Bauteilbilder mit Schäden:
+- auto-3734396_1280_Hood_idx0_annotated.jpg
+- auto-3734396_1280_Mirror_idx1_annotated.jpg
+- auto-3734396_1280_Front-bumper_idx5_annotated.jpg
+- auto-3734396_1280_Headlight_idx7_annotated.jpg

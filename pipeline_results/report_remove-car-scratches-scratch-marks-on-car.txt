@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:859bc8d54554717d401b80d834415a5bb5220b2f98cd92602ea89c57b4beaf6a
-size 624
+Schadensbericht für Bild: remove-car-scratches-scratch-marks-on-car.jpg
+==================================================
+
+Bauteil: Front-wheel (Koordinaten: [86, 1, 451, 361])
+  - Schadensart: Scratch (Konfidenz: 0.73)
+  - Schadensart: Scratch (Konfidenz: 0.61)
+---
+Bauteil: Front-bumper (Koordinaten: [226, 0, 639, 366])
+  - Schadensart: Scratch (Konfidenz: 0.86)
+  - Schadensart: Scratch (Konfidenz: 0.57)
+---
+
+
+Zusätzliche zugeschnittene Bauteilbilder mit Schäden:
+- remove-car-scratches-scratch-marks-on-car_Front-wheel_idx0_annotated.jpg
+- remove-car-scratches-scratch-marks-on-car_Front-bumper_idx1_annotated.jpg

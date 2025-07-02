@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a7af5fbad92659025e2508d4cfd5404ae6e7c2740c2f88ccc233b4ffac3e886
-size 431
+Schadensbericht für Bild: OIP (1).jpg
+==================================================
+
+Bauteil: Quarter-panel (Koordinaten: [113, 0, 474, 312])
+  - Schadensart: Dent (Konfidenz: 0.79)
+---
+Bauteil: Tail-light (Koordinaten: [64, 54, 133, 172])
+  - Schadensart: Dent (Konfidenz: 0.67)
+---
+
+
+Zusätzliche zugeschnittene Bauteilbilder mit Schäden:
+- OIP (1)_Quarter-panel_idx2_annotated.jpg
+- OIP (1)_Tail-light_idx5_annotated.jpg
